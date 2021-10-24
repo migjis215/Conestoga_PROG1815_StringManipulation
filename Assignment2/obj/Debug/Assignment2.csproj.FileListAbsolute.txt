@@ -1,0 +1,10 @@
+C:\PROG1815\Assignment\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\PROG1815\Assignment\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\PROG1815\Assignment\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\PROG1815\Assignment\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\PROG1815\Assignment\Assignment2\Assignment2\obj\Debug\Assignment2.JKGymMemberManagement.resources
+C:\PROG1815\Assignment\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\PROG1815\Assignment\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\PROG1815\Assignment\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\PROG1815\Assignment\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\PROG1815\Assignment\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
